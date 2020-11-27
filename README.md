@@ -6,9 +6,13 @@ A replica/clone of Uber: able to get directions to locations of users on the app
 
 ## Features 
 Detect the current location of the user
+
 Use Geocoding for converting addresses to coordinates and vice versa
+
 Add Markers to the Map View
+
 Draw the route between two places using Polylines and Directions API
+
 Live location is also available or manually specify location. 
 
 ## Installation 
