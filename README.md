@@ -1,4 +1,4 @@
-# FlutterChatApp
+# FlutterMapApp
 
 ## Description
 A Map App made on FLutter along with Firestore/Firebase backend and Google Maps API.
