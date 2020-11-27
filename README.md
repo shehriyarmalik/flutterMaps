@@ -30,5 +30,5 @@ Full configuration (already done in this project)
 ## Screenshots:
 
 <img src="https://github.com/shehriyarmalik/flutterMaps/blob/main/screenshots/home.PNG" height="400" width="200">
-<img src="https://github.com/shehriyarmalik/flutterMaps/blob/master/screenshots/map.png?raw=true" height="400" width="200">
-<img src="https://github.com/shehriyarmalik/flutterMaps/blob/master/screenshots/options.png?raw=true" height="400" width="200">
+<img src="https://github.com/shehriyarmalik/flutterMaps/blob/main/screenshots/map.PNG" height="400" width="200">
+<img src="https://github.com/shehriyarmalik/flutterMaps/blob/main/screenshots/options.png" height="400" width="200">
